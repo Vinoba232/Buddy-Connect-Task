@@ -1,0 +1,10 @@
+H:\Softura\ADO\LinqTaskSolution\LinqTask\obj\Debug\netcoreapp3.1\LinqTask.csprojAssemblyReference.cache
+H:\Softura\ADO\LinqTaskSolution\LinqTask\obj\Debug\netcoreapp3.1\LinqTask.AssemblyInfoInputs.cache
+H:\Softura\ADO\LinqTaskSolution\LinqTask\obj\Debug\netcoreapp3.1\LinqTask.AssemblyInfo.cs
+H:\Softura\ADO\LinqTaskSolution\LinqTask\obj\Debug\netcoreapp3.1\LinqTask.RazorAssemblyInfo.cache
+H:\Softura\ADO\LinqTaskSolution\LinqTask\obj\Debug\netcoreapp3.1\LinqTask.RazorAssemblyInfo.cs
+H:\Softura\ADO\LinqTaskSolution\LinqTask\obj\Debug\netcoreapp3.1\staticwebassets\LinqTask.StaticWebAssets.Manifest.cache
+H:\Softura\ADO\LinqTaskSolution\LinqTask\obj\Debug\netcoreapp3.1\staticwebassets\LinqTask.StaticWebAssets.xml
+H:\Softura\ADO\LinqTaskSolution\LinqTask\obj\Debug\netcoreapp3.1\scopedcss\bundle\LinqTask.styles.css
+H:\Softura\ADO\LinqTaskSolution\LinqTask\obj\Debug\netcoreapp3.1\LinqTask.TagHelpers.input.cache
+H:\Softura\ADO\LinqTaskSolution\LinqTask\obj\Debug\netcoreapp3.1\LinqTask.TagHelpers.output.cache

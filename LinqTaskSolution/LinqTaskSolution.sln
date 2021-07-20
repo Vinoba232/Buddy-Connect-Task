@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqTaskEF", "LinqTaskEF\LinqTaskEF.csproj", "{4F41914C-3EE3-488C-A285-11CC5E7CD8AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F41914C-3EE3-488C-A285-11CC5E7CD8AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F41914C-3EE3-488C-A285-11CC5E7CD8AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F41914C-3EE3-488C-A285-11CC5E7CD8AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F41914C-3EE3-488C-A285-11CC5E7CD8AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {165992F0-BE2D-40E7-87D3-C09F2093BF7C}
+	EndGlobalSection
+EndGlobal

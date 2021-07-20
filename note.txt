@@ -1,0 +1,30 @@
+-->ADO.net
+-->Linq
+-->Dapper
+ADO.Net
+To connect database
+
+Connection(application is in diff server and db is in diff server)
+-->server name,database name,username,password)
+
+Con.open()
+
+Command
+The Command builder
+
+2 types of connection
+The DataAdapter --takes all the data in a single (if there is 1l data.
+it may lot of time)
+
+Data Reader-connection should be open-always
+if there is 10 data..it hits the db 10 times
+
+Con.close();
+
+DataSet -->Data tables
+ after getting data we need to store the data in C#
+
+
+Linq-->Query in C#
+from tblname select
+

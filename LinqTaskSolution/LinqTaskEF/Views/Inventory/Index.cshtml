@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewBag.Title = "LinqTask";
+}
+
+<h2>Home</h2>
+<link rel="stylesheet" href="~/css/" />
+
+<style>
+    .vertical-menu {
+        width: 200px;
+    }
+
+        .vertical-menu a {
+            background-color: #eee;
+            color: black;
+            display: block;
+            padding: 12px;
+            text-decoration: none;
+        }
+
+            .vertical-menu a:hover {
+                background-color: #ccc;
+            }
+
+            .vertical-menu a.active {
+                background-color: #04AA6D;
+                color: white;
+            }
+</style>
+<div class="vertical-menu">
+    <a href="Index" class="active">Home</a>
+    <a href="PurchaseList">List of Purchase against Customer</a>
+    <a href="MonthWiseReport">Month wise Customer Report against Products</a>
+    <a href="ProductSalesMonthWise">Product sales report month wise</a>
+    <a href="ProductNameAsc">List of Products</a>
+    <a href="MaxOrderPrice">Maximum Order price - Month wise</a>
+</div>
